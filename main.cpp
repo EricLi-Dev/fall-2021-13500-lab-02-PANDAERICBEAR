@@ -4,7 +4,7 @@ Author: Eric Li
 
 Course: CSCI-135
 
-Instructor: Tong Yi
+Instructor: Zamansky
 
 Assignment: Lab 2B
 
