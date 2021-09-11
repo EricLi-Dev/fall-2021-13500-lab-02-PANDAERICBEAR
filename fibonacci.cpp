@@ -10,7 +10,7 @@ Assignment: Lab 2D
 
 
 
-Purpose:
+Purpose: Prints out a fibonacci sequence
 
 */
 
@@ -28,7 +28,7 @@ int main(){
   cout << fib[0] << endl << fib[1] << endl;
   for(int i = 2; i < 60; i++){
     fib[i] = fib[i-1] + fib [i-2];
-    cout << i << ": " << fib[i] << endl;
+    cout << fib[i] << endl;
   }
 
 /**********************************************************************
